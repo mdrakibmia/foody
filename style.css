@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header{
-    background: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.4)), url("img/background3.jpg");
+    background: linear-gradient(rgb(0, 0, 0, 0.8), rgb(0, 0, 0, 0.8)), url("img/background3.jpg");
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
